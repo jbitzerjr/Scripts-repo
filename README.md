@@ -1,2 +1,2 @@
 # Scripts-repo
-Various scripts I've written
+Various scripts I've written or found useful online.
